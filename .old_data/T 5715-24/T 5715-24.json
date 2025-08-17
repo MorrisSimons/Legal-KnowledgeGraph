@@ -1,0 +1,34 @@
+{
+  "case_number": "T 5715-24",
+  "nickname": "”Rydbergs”",
+  "summary": "Förutsättningar att upphäva en skiljedom endast delvis har inte ansetts föreligga.",
+  "decision_date": "2025-05-26",
+  "publication_time": "2025-05-26T12:36:00",
+  "case_id": "db2f5658-33aa-43d7-8460-0c19841fb0ac",
+  "type": "DOM_ELLER_BESLUT",
+  "is_precedent": true,
+  "court": "Högsta domstolen",
+  "court_code": "HDO",
+  "keywords": [
+    "Upphävande av skiljedom",
+    "Partiellt upphävande",
+    "Skiljedom",
+    "Skiljeförfarande"
+  ],
+  "legal_areas": [],
+  "legal_references": [
+    {
+      "reference": "34 § lagen (1999:116) om skiljeförfarande",
+      "sfs_number": "1999:116"
+    }
+  ],
+  "referenced_publications": [],
+  "pdf_documents": [
+    {
+      "filename": "T 5715-24.pdf",
+      "file_id": "190/35/02/35024cfd-a46f-47e5-9102-5ab0a9c4089a"
+    }
+  ],
+  "case_url": "https://rattspraxis.etjanst.domstol.se/sok/publicering/7da355fb-1427-4d80-a5cc-0e85e49705fa",
+  "correlation_number": "7da355fb-1427-4d80-a5cc-0e85e49705fa"
+}

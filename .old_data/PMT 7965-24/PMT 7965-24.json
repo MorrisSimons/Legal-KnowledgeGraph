@@ -1,0 +1,60 @@
+{
+  "case_number": "PMT 7965-24",
+  "nickname": "”Dreamhost”",
+  "summary": "Ersättning för annan än rent ekonomisk skada vid upphovsrättsintrång. Ideell skada bestående i lidande eller annat förfång aktualiseras normalt inte för juridiska personer om det inte finns en nära koppling mellan den juridiska personen och den upphovsman som har skapat verket. Den som begär ersättning måste konkretisera vilka omständigheter som åberopas och, vid behov, bevisa dessa.",
+  "decision_date": "2025-05-21",
+  "publication_time": "2025-05-21T08:45:00",
+  "case_id": "1d6c8090-203d-4ab1-960c-3f739d0ca728",
+  "type": "DOM_ELLER_BESLUT",
+  "is_precedent": true,
+  "court": "Högsta domstolen",
+  "court_code": "HDO",
+  "keywords": [
+    "Ideell skada",
+    "Ekonomiska rättigheter",
+    "Icke-ekonomisk skada",
+    "Ideella rättigheter",
+    "Lidande eller annat förfång",
+    "Skadestånd",
+    "Upphovsrättsintrång"
+  ],
+  "legal_areas": [],
+  "legal_references": [
+    {
+      "reference": "2 § lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk",
+      "sfs_number": "1960:729"
+    },
+    {
+      "reference": "3 § lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk",
+      "sfs_number": "1960:729"
+    },
+    {
+      "reference": "54 § lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk",
+      "sfs_number": "1960:729"
+    },
+    {
+      "reference": "Artikel 13 i Europaparlamentets och rådets direktiv 2004/48/EG av den 29 april 2004 om säkerställande av skyddet för immateriella rättigheter ",
+      "sfs_number": ""
+    }
+  ],
+  "referenced_publications": [
+    "”Konstaffischerna” NJA 1974 s. 94",
+    "”Bootlegskivorna” NJA 1984 s. 34",
+    "”Stadshuset i Uppsala” NJA 1993 s. 263",
+    "”Stadens löjtnant” NJA 1996 s. 354",
+    "”JAS-artikeln” NJA 1996 s. 712",
+    "”Formsprutarna” NJA 2005 s. 180",
+    "”Hajen och Alfred” NJA 2008 s. 309",
+    "”Q-houses” NJA 2010 s. 135",
+    "Kezban” NJA 2013  s. 842",
+    "EU-domstolens dom Liffers, C-99/15, EU:C:2016:173"
+  ],
+  "pdf_documents": [
+    {
+      "filename": "PMT 7965-24.pdf",
+      "file_id": "190/11/f6/11f66a1b-bf8a-424c-ac79-956a6c9e9097"
+    }
+  ],
+  "case_url": "https://rattspraxis.etjanst.domstol.se/sok/publicering/09b7dd00-8ca4-435d-8bc3-a0813eeb0ee4",
+  "correlation_number": "09b7dd00-8ca4-435d-8bc3-a0813eeb0ee4"
+}

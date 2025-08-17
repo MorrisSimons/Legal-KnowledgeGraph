@@ -1,0 +1,37 @@
+{
+  "case_number": "T 555-24",
+  "nickname": "”Blue Gas Holding”",
+  "summary": "Förutsättningar att ogiltigförklara en skiljedom endast delvis har ansetts föreligga.",
+  "decision_date": "2025-05-26",
+  "publication_time": "2025-05-26T12:35:00",
+  "case_id": "d54be03d-a690-4dc3-8262-60c37eaf3242",
+  "type": "DOM_ELLER_BESLUT",
+  "is_precedent": true,
+  "court": "Högsta domstolen",
+  "court_code": "HDO",
+  "keywords": [
+    "Ogiltighet av skiljedom",
+    "Partiell ogiltighet",
+    "Skiljedom",
+    "Skiljeförfarande"
+  ],
+  "legal_areas": [],
+  "legal_references": [
+    {
+      "reference": "33 § lagen (1999:116) om skiljeförfarande",
+      "sfs_number": "1999:116"
+    }
+  ],
+  "referenced_publications": [
+    "”Investeringsavtalet” NJA 2022 s. 965",
+    "EU-domstolens dom den 2 september 2021 i mål Komstroy, C-741/19, EU:C:2021:655"
+  ],
+  "pdf_documents": [
+    {
+      "filename": "T 555-24.pdf",
+      "file_id": "190/30/8f/308f8675-6440-456d-a6c6-ca5c86388c9e"
+    }
+  ],
+  "case_url": "https://rattspraxis.etjanst.domstol.se/sok/publicering/95caed40-a000-4efe-9384-f2cffddd84c0",
+  "correlation_number": "95caed40-a000-4efe-9384-f2cffddd84c0"
+}
