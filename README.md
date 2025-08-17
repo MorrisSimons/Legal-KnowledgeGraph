@@ -9,15 +9,15 @@
 ![License](https://img.shields.io/github/license/gpt-null/template)
 
 
-Hello in apptempt to make my work more transparent im going to share my progress here. This is a project im currently working on.
+Hello, in an attempt to make my work more transparent im going to share my progress here. This is a project im currently working on.
 
 
-so in very simple Sudo law what im trying to do is like the follwoing images say.
+so, in very simple Sudo law what im trying to do is like the follwoing images say.
 
 ![Screenshot](assets/screenshot.png)
 
 
-The fist image is here to show that data of what is connected is stored in diffrent places for example the law and a high court ruling case that is connected to the law.
+The fist image is here to show that data of what is connected is stored in diffrent places, for example, the law and a high court ruling case that is connected to the law.
 
 
 
@@ -25,14 +25,14 @@ The fist image is here to show that data of what is connected is stored in diffr
 
 
 
-This image is more to demonstrate the idea of the graph. Where you can connect diffrent laws to foregin laws, such as European Union law and other laws. So for example you want to draft a legal document. It can find the corresponding laws and terms for example vaction rights in the other country. 
+This image is more to demonstrate the idea of the graph. Where you can connect different laws to foreign laws, such as European Union law and other laws. So for example, you want to draft a legal document. It can find the corresponding laws and terms, for example, vacation rights in the other country. 
 
 
-Also connect diffrent high court rulings to those laws to check for legal edge cases. The gigster examples is just to make it easy. An LLM (or agent what ever) can then dig deeper for example a gigster in not classified as an employee in sweden. Then connect classifications of what an employee is in sweden. etc.
+Also, connect different high court rulings to those laws to check for legal edge cases. The gigster examples are just to give an easy explanation of what im trying to do. An LLM (or agent or whatever) can then dig deeper, for example, a gigster in not classified as an employee in Sweden. Then connect the classifications of what an employee is in Sweden. etc.
 
-We also have other laws that effect vaccation right such as laws for radiological workers or military workers in sweden.
+We also have other laws that affect vacation rights, such as laws for radiological workers or military workers in Sweden.
 
-we also have paragraphs on the law with its own connections to diffrent contexts.
+We also have paragraphs on the law with its own connections to different contexts.
 
 
 
@@ -45,5 +45,5 @@ you also laws that are changes to the old laws. [like this law](https://www.lagb
 
 TODO:
 - [ ] Right now im just scraping legal documents.
-- [ ] Then Transform the data play around how we are going to model it.
+- [ ] Then, transform the data, play around with how we are going to model it.
   
