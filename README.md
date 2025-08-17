@@ -45,3 +45,5 @@ you also laws that are changes to the old laws. [like this law](https://www.lagb
 
 TODO:
 - [ ] Right now im just scraping legal documents.
+- [ ] Then Transform the data play around how we are going to model it.
+  
