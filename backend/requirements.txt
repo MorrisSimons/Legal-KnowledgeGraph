@@ -1,0 +1,5 @@
+# Database
+sqlite3
+
+# Environment and configuration
+python-dotenv>=1.0.0
