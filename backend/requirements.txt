@@ -1,5 +1,8 @@
 # Database
 sqlite3
 
+# Web crawling
+requests>=2.31.0
+
 # Environment and configuration
 python-dotenv>=1.0.0
