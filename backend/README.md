@@ -28,34 +28,12 @@ backend/
    python3 scripts/init_db.py
    ```
 
-2. **Run the main application:**
-   ```bash
-   python3 main.py
-   ```
+## COMMAND TO START SQLITE BROWSER WITH OUR DATA
 
-3. **View database contents:**
-   ```bash
-   python3 scripts/view_db.py
-   ```
+To open the SQLite database in DB Browser for SQLite, run:
 
-## Usage
-
-**In your code:**
-```python
-from legal_kg.database import get_connection
-from legal_kg.models import CrawledPage
-
-conn = get_connection()
-cursor = conn.cursor()
-# Your database operations here
-conn.close()
+```bash
+cd backend && sqlitebrowser data/legal_kg.db
 ```
 
-## Database
 
-The database contains one main table:
-- `crawled_pages` - For storing web scraping data (URL, content, metadata)
-
-## Adding New Tables
-
-To add new tables, modify the `init_database()` function in `src/legal_kg/database.py` and run `python3 scripts/init_db.py` again.
